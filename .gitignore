@@ -1,0 +1,10 @@
+/venv
+models/
+final_model
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+final_model/
+mykey.txt
+.env
+*.key
